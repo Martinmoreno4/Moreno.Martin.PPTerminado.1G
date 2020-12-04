@@ -1,0 +1,196 @@
+# depslib dependency file v1.0
+1603500483 source:c:\users\user\desktop\utn\parcial 1 programacion 16-10-2020\moreno.martin.labipp1g\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"auto.h"
+	"datastore.h"
+	"marca.h"
+	"color.h"
+
+1603500478 c:\users\user\desktop\utn\parcial 1 programacion 16-10-2020\moreno.martin.labipp1g\auto.h
+	"color.h"
+	"marca.h"
+
+1603499284 source:c:\users\user\desktop\utn\parcial 1 programacion 16-10-2020\moreno.martin.labipp1g\color.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"color.h"
+	"marca.h"
+	"auto.h"
+
+1603499284 c:\users\user\desktop\utn\parcial 1 programacion 16-10-2020\moreno.martin.labipp1g\color.h
+	"marca.h"
+
+1603424692 source:c:\users\user\desktop\utn\parcial 1 programacion 16-10-2020\moreno.martin.labipp1g\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"fecha.h"
+
+1603424692 c:\users\user\desktop\utn\parcial 1 programacion 16-10-2020\moreno.martin.labipp1g\fecha.h
+
+1602892872 source:c:\users\user\desktop\utn\parcial 1 programacion 16-10-2020\moreno.martin.labipp1g\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"marca.h"
+
+1602892872 c:\users\user\desktop\utn\parcial 1 programacion 16-10-2020\moreno.martin.labipp1g\marca.h
+
+1603488837 source:c:\users\user\desktop\utn\parcial 1 programacion 16-10-2020\moreno.martin.labipp1g\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"servicio.h"
+
+1603488837 c:\users\user\desktop\utn\parcial 1 programacion 16-10-2020\moreno.martin.labipp1g\servicio.h
+
+1603488902 source:c:\users\user\desktop\utn\parcial 1 programacion 16-10-2020\moreno.martin.labipp1g\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"trabajo.h"
+	"fecha.h"
+	"auto.h"
+	"servicio.h"
+
+1603488400 c:\users\user\desktop\utn\parcial 1 programacion 16-10-2020\moreno.martin.labipp1g\trabajo.h
+	"fecha.h"
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+
+1603500205 source:c:\users\user\desktop\utn\parcial 1 programacion 16-10-2020\moreno.martin.labipp1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"auto.h"
+	"trabajo.h"
+
+1603499513 c:\users\user\desktop\utn\parcial 1 programacion 16-10-2020\moreno.martin.labipp1g\datastore.h
+
+1607030318 source:c:\users\user\desktop\utn\parcial 1 programacion 16-10-2020\moreno.martin.labipp1g recuperatorio\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"auto.h"
+	"datastore.h"
+	"marca.h"
+	"color.h"
+	"biblioteca.h"
+
+1607027985 c:\users\user\desktop\utn\parcial 1 programacion 16-10-2020\moreno.martin.labipp1g recuperatorio\auto.h
+	"color.h"
+	"marca.h"
+	"cliente.h"
+
+1603499284 c:\users\user\desktop\utn\parcial 1 programacion 16-10-2020\moreno.martin.labipp1g recuperatorio\color.h
+	"marca.h"
+
+1602892872 c:\users\user\desktop\utn\parcial 1 programacion 16-10-2020\moreno.martin.labipp1g recuperatorio\marca.h
+
+1607024335 c:\users\user\desktop\utn\parcial 1 programacion 16-10-2020\moreno.martin.labipp1g recuperatorio\datastore.h
+
+1606967068 source:c:\users\user\desktop\utn\parcial 1 programacion 16-10-2020\moreno.martin.labipp1g recuperatorio\color.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"color.h"
+	"marca.h"
+	"auto.h"
+
+1606967068 source:c:\users\user\desktop\utn\parcial 1 programacion 16-10-2020\moreno.martin.labipp1g recuperatorio\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"fecha.h"
+
+1606865280 c:\users\user\desktop\utn\parcial 1 programacion 16-10-2020\moreno.martin.labipp1g recuperatorio\fecha.h
+
+1607032946 source:c:\users\user\desktop\utn\parcial 1 programacion 16-10-2020\moreno.martin.labipp1g recuperatorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"auto.h"
+	"trabajo.h"
+	"biblioteca.h"
+	"cliente.h"
+
+1607032576 c:\users\user\desktop\utn\parcial 1 programacion 16-10-2020\moreno.martin.labipp1g recuperatorio\servicio.h
+
+1607032141 c:\users\user\desktop\utn\parcial 1 programacion 16-10-2020\moreno.martin.labipp1g recuperatorio\trabajo.h
+	"fecha.h"
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+
+1606868917 source:c:\users\user\desktop\utn\parcial 1 programacion 16-10-2020\moreno.martin.labipp1g recuperatorio\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"marca.h"
+
+1607030379 source:c:\users\user\desktop\utn\parcial 1 programacion 16-10-2020\moreno.martin.labipp1g recuperatorio\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"servicio.h"
+	"biblioteca.h"
+
+1607032889 source:c:\users\user\desktop\utn\parcial 1 programacion 16-10-2020\moreno.martin.labipp1g recuperatorio\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"trabajo.h"
+	"fecha.h"
+	"auto.h"
+	"servicio.h"
+	"datastoreTrabajo.h"
+	"biblioteca.h"
+
+1606868917 source:c:\users\user\desktop\utn\parcial 1 programacion 16-10-2020\moreno.martin.labipp1g recuperatorio\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1606863285 c:\users\user\desktop\utn\parcial 1 programacion 16-10-2020\moreno.martin.labipp1g recuperatorio\biblioteca.h
+
+1606974259 source:c:\users\user\desktop\utn\parcial 1 programacion 16-10-2020\moreno.martin.labipp1g recuperatorio\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"cliente.h"
+	"color.h"
+	"marca.h"
+	"auto.h"
+
+1606974750 c:\users\user\desktop\utn\parcial 1 programacion 16-10-2020\moreno.martin.labipp1g recuperatorio\cliente.h
+
+1607025623 c:\users\user\desktop\utn\parcial 1 programacion 16-10-2020\moreno.martin.labipp1g recuperatorio\datastoretrabajo.h
+
